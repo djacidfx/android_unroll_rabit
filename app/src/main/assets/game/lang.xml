@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stringresources>
+<languages>
+<language>en</language>
+<language>fr</language>
+<language>de</language>
+<language>es</language>
+<language>br</language>
+<language>it</language>
+</languages>
+<strings>
+    <string id="AboutKey">
+        <en>About</en>
+        <ja>ゲームについて</ja>
+        <no>OM</no>
+        <de>Info</de>
+        <es>Información</es>
+        <fr>À propos</fr>
+        <it>Info</it>
+        <br>Sobre</br>
+        <nl>OVER</nl>
+        <tr>HAKKINDA</tr>
+    </string>
+    <string id="BackKey">
+        <en>Back</en>
+        <ja>戻る</ja>
+        <no>TILBAKE</no>
+        <de>Zurück</de>
+        <es>Atras</es>
+        <fr>Arrière</fr>
+        <it>Indietro</it>
+        <br>Voltar</br>
+        <nl>TERUG</nl>
+        <tr>GERİ</tr>
+    </string>
+    <string id="GamePausedKey">
+        <en>Game Paused</en>
+        <ja>ポーズ</ja>
+        <no>SPILL SATT PÅ PAUSE</no>
+        <de>Spiel pausiert</de>
+        <es>Juego en pausa</es>
+        <fr>Partie en pause</fr>
+        <it>Pausa</it>
+        <br>Jogo pausado</br>
+        <nl>GAME GEPAUZEERD</nl>
+        <tr>DURAKLADI</tr>
+    </string>
+    <string id="HintKey">
+        <en>Hint</en>
+        <ja>ヒント</ja>
+        <no>LEDETRÅD</no>
+        <de>Tipp</de>
+        <es>Pista</es>
+        <fr>Indice</fr>
+        <it>Sugger.</it>
+        <br>Dica</br>
+        <nl>HINT</nl>
+        <tr>İPUCU</tr>
+    </string>
+    <string id="HomeKey">
+        <en>Home</en>
+        <ja>メイン画面</ja>
+        <no>HJEM</no>
+        <de>Home</de>
+        <es>Inicio</es>
+        <fr>Accueil</fr>
+        <it>Home</it>
+        <br>Principal</br>
+        <nl>HOME</nl>
+        <tr>ANASAYFA</tr>
+    </string>
+    <string id="LevelCompletedKey">
+        <en>Level completed!</en>
+        <ja>ステージクリア！</ja>
+        <no>NIVÅ FULLFØRT!</no>
+        <de>Level Abgeschlossen!</de>
+        <es>¡Nivel completado!</es>
+        <fr>Niveau terminé!</fr>
+        <it>Livello completato!</it>
+        <br>Nível concluído!</br>
+        <nl>LEVEL VOLTOOID!</nl>
+        <tr>SEVİYE TAMAMLANDI!</tr>
+    </string>
+    <string id="LevelKey">
+        <en>Level</en>
+        <ja>ステージ</ja>
+        <no>NIVÅ</no>
+        <de>Level</de>
+        <es>Nivel</es>
+        <fr>Niveau</fr>
+        <it>Livello</it>
+        <br>Nível</br>
+        <nl>LEVEL</nl>
+        <tr>SEVİYE</tr>
+    </string>
+    <string id="LevelsKey">
+        <en>Levels</en>
+        <ja>ステージ</ja>
+        <no>NIVÅ</no>
+        <de>Levels</de>
+        <es>Niveles</es>
+        <fr>Niveaux</fr>
+        <it>Livelli</it>
+        <br>Níveis</br>
+        <nl>LEVELS</nl>
+        <tr>SEVİYE</tr>
+    </string>
+    <string id="NextKey">
+        <en>Next</en>
+        <ja>次</ja>
+        <no>NESTE</no>
+        <de>Weiter</de>
+        <es>Siguiente</es>
+        <fr>Suivant</fr>
+        <it>Seguente</it>
+        <br>Próximo</br>
+        <nl>VOLGENDE</nl>
+        <tr>İLERİ</tr>
+    </string>
+    <string id="PlayKey">
+        <en>Play</en>
+        <ja>プレイ</ja>
+        <no>SPILLE</no>
+        <de>Spielen</de>
+        <es>Jugar</es>
+        <fr>Jouer</fr>
+        <it>Gioca</it>
+        <br>Reproduzir</br>
+        <nl>SPELEN</nl>
+        <tr>OYNA</tr>
+    </string>
+    <string id="ReplayKey">
+        <en>Replay</en>
+        <ja>リプレイ</ja>
+        <no>SPILL IGJEN</no>
+        <de>Erneut spielen</de>
+        <es>Volver a jugar</es>
+        <fr>Rejouer</fr>
+        <it>Rigioca</it>
+        <br>Reiniciar</br>
+        <nl>OPNIEUW\nSPELEN</nl>
+        <tr>TEKRAR OYNA</tr>
+    </string>
+    <string id="RestartKey">
+        <en>Restart</en>
+        <ja>リスタート</ja>
+        <no>OMSTART</no>
+        <de>Neustart</de>
+        <es>Reiniciar</es>
+        <fr>Recommencer</fr>
+        <it>Riavvia</it>
+        <br>Reiniciar</br>
+        <nl>OPNIEUW\nSTARTEN</nl>
+        <tr>TEKRAR\nBAŞLAT</tr>
+    </string>
+    <string id="UndoKey">
+        <en>Undo</en>
+        <ja>元に戻す</ja>
+        <no>GJØR OM</no>
+        <de>Rückgängig</de>
+        <es>Deshacer</es>
+        <fr>Annuler</fr>
+        <it>Annulla</it>
+        <br>Desfazer</br>
+        <nl>TERUGDRAAIEN</nl>
+        <tr>GERİ AL</tr>
+    </string>
+    <string id="ResumeGameKey">
+        <en>RESUME GAME</en>
+        <ja>ゲームを再開</ja>
+        <no>GJENOPPTA SPILLET</no>
+        <de>Spiel\nfortsetzen</de>
+        <es>Reanudar partida</es>
+        <fr>Reprendre partie</fr>
+        <it>Riprendi partita</it>
+        <br>Retomar jogo</br>
+        <nl>GAME WEER STARTEN</nl>
+        <tr>DEVAM</tr>
+    </string>
+    <string id="CompletedKey">
+        <en>COMPLETED</en>
+        <ja>ゲームクリア！</ja>
+        <no>KLAR</no>
+        <de>Abgeschlossen!</de>
+        <es>completado!</es>
+        <fr>terminé!</fr>
+        <it>completato!</it>
+        <br>concluído.</br>
+        <nl>VOLTOOID</nl>
+        <tr>TAMAMLANDI</tr>
+    </string>
+    <string id="CarrotsCollectedKey">
+        <en>Carrots collected</en>
+        <ja>集めたニンジンの数</ja>
+        <no>GULRØTTER SAMLET</no>
+        <de>Gesammelte Karotten</de>
+        <es>Zanahorias recogidas</es>
+        <fr>Carottes récupérées</fr>
+        <it>Carote raccolte</it>
+        <br>Cenouras recolhidas</br>
+        <nl>VERZAMELDE WORTELS</nl>
+        <tr>HAVUÇLAR TOPLANDI</tr>
+    </string>
+    <string id="PathCompleteKey">
+        <en>PATH\nCOMPLETE!</en>
+        <ja>クリア！</ja>
+        <no>STI KLAR!</no>
+        <de>Pfad\nvollständig!</de>
+        <es>¡Camino\ncompletado!</es>
+        <fr>Parcours\nterminé!</fr>
+        <it>Percorso\ncompletato!</it>
+        <br>Caminho\nconcluído!</br>
+        <nl>PAD VOLTOOID!</nl>
+        <tr>YOL TAMAMLANDI!</tr>
+    </string>
+    <string id="InstructionsKey">
+        <en>Slide road tiles to make a path for the bunny to the goal. Stone tiles can't be moved. Aim to win with as few moves as possible. When you're stuck, use a hint.</en>
+        <ja>タイルを動かしてバニ ーをゴールまで導こう ！石のタイルは動かすことができ ません。できるだけ少ない 手数でゴールを目指 しましょう！行き 詰まった時のた めに、ヒントも用意 しています。</ja>
+        <no>FLYTTE VEIFLISER FOR Å GJØRE EN BANE FOR KANINEN TIL MÅLET. STEN FLISER KAN IKKE FLYTTES. PRØVE PÅ Å VINNE MED SÅ FÅ BEVEGELSER SOM MULIG. HVIS DU SITTER FAST, BRUK EN LEDETRÅD.</no>
+        <de>Verschiebe Kacheln, um für den Hasen einen Weg zum Ziel zu bauen. Steinkacheln können nicht verschoben werden. Nutze so wenige Züge wie möglich. Wenn du nicht mehr weiterkommst, hilft dir ein Tipp.</de>
+        <es>Mueve las fichas para abrir el camino y que el conejo pueda alcanzar su objetivo. Las rocas no pueden moverse. Intenta completar el nivel con la menor cantidad de movimientos posible. Si te atascas, usa la pista.</es>
+        <fr>Faites glisser les tuiles pavées pour frayer un chemin au lapin et lui permettre d'atteindre son but. Les tuiles en pierre ne peuvent pas être déplacées. Essayez de gagner en limitant un maximum les déplacements. Lorsque vous êtes bloqué, utilisez un indice. Recomm. = Recommencer</fr>
+        <it>Sposta le piastrelle stradali per creare un percorso che permetta al coniglietto di raggiungere l'obiettivo. Le piastrelle di pietra non possono essere spostate. Cerca di vincere nel minor numero di mosse possibile. Quando ti blocchi, usa un suggerimento. Sugger. = Suggerimento</it>
+        <br>Deslize as peças para criar um caminho para o coelho para chegar ao objetivo. As peças de pedra não podem ser movidas. O objetivo é vencer com o menor número de movimentos possível. Quando não souber o que fazer, use uma dica!</br>
+        <nl>SCHUIF WEGTEGELS OM EEN PAD VOOR HET KONIJNTJE NAAR HET DOEL TE MAKEN. PROBEER MET ZO MIN MOGELIJK ZETTEN TE WINNEN. GEBRUIK EEN HINT ALS JE VAST KOMT TE ZITTEN.</nl>
+        <tr>TAVŞANIN HEDEFİNE ULAŞMASI İÇİN YOLU KAYDIR. ANCAK TAŞLAR HAREKET ETMEZ. OLABİLDİĞİNCE AZ HAMLE YAPARAK HEDEFİNE ULAŞMAYA ÇALIŞ. TAKILDIĞINDA İPUCU ALABİLİRSİN.</tr>
+    </string>
+    <string id="TTC">
+        <en>TAP TO CONTINUE</en>
+        <ja>タップして続ける</ja>
+        <no>TRYKK FOR Å FORTSETTE</no>
+        <fr>Touchez pour\ncontinuer</fr>
+        <de>Zum Fortfahren\nberühren</de>
+        <es>Toca para continuar</es>
+        <it>Tocca per continuare</it>
+        <br>Toque para continuar</br>
+        <nl>TIK OM VERDER TE GAAN</nl>
+        <tr>DEVAM ETMEK İÇİN DOKUN</tr>
+    </string>
+    <string id="MORE_GAMES" index="11">
+        <en>MORE GAMES</en>
+        <ja>他のゲーム</ja>
+        <no>FLERE SPILL</no>
+        <es>MÁS JUEGOS</es>
+        <de>MEHR SPIELE</de>
+        <it>ALTRI GIOCHI</it>
+        <fr>PLUS DE JEUX</fr>
+        <br>MAIS JOGOS</br>
+        <nl>MEER GAMES</nl>
+        <tr>DAHA FAZLA</tr>
+    </string>
+</strings>
+</stringresources>

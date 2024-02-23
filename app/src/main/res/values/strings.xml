@@ -1,28 +1,28 @@
 <resources>
-    <string name="app_name">Game</string>
+    <string name="app_name">Rabbit Roller</string>
 
-    <bool name="is_testing">true</bool>
+    <bool name="is_testing">false</bool>
 
     <bool name="enable_banner">true</bool>
         <bool name="banner_at_bottom">true</bool>
         <bool name="banner_not_overlap">false</bool>
-        <string name="id_banner">ca-app-pub-3940256099942544/6300978111</string>
+        <string name="id_banner">ca-app-pub-2916714021613915/7167465961</string>
 
     <bool name="enable_inter">true</bool>
-        <string name="id_inter">ca-app-pub-3940256099942544/1033173712</string>
+        <string name="id_inter">ca-app-pub-2916714021613915/2717633805</string>
 
     <bool name="enable_gdpr">true</bool>
-        <bool name="under_age">false</bool>
-        <string name="privacy_url">https://sites.google.com/view/gradlegames/privacy</string>
+        <bool name="under_age">true</bool>
+        <string name="privacy_url">https://mywild.work/privacy</string>
         <string name="privacy_policy">Privacy Policy</string>
-        <string name="privacy_email">gradlecode@outlook.com</string>
+        <string name="privacy_email">djacidburn1877@gmail.com</string>
 
-    <string name="share_description">Try this new game</string>
+    <string name="share_description">Check out this awesome new game I found</string>
 
     <bool name="full_screen">true</bool>
     <string name="image_content">image</string>
 
-    <string name="sure_quit">Are you sure you want to quit?</string>
+    <string name="sure_quit">Are you sure you\'re ready to quit?</string>
     <string name="exit">Exit</string>
     <string name="cancel">Cancel</string>
 
